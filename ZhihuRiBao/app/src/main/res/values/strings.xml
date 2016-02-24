@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">知乎日报</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_fail">下载失败</string>
+    <string name="no_news">没有新闻</string>
+</resources>
